@@ -1,11 +1,11 @@
 ---
 title: A Collection of Graphics & Creations
-layout: collection
+layout: single
 permalink: /create/
 collection: portfolio
 entries_layout: grid
 ---
-
+*** create a _portfolio section and add this document to it? then try adding gallery shit
 ### Creations for eyeDOCS Ottawa
 
 <div>
@@ -27,6 +27,7 @@ entries_layout: grid
 
 <br>
 
+
 ### Creations for Ottawa Festivals
 
 <div>
@@ -45,5 +46,6 @@ entries_layout: grid
 	<img src="/assets/portfolio/ofn-fb.jpg" alt="a Facebook cover photo promoting an online contest">
 	A Facebook photo promoting a social #GetFestive content.
   </div>
+
 
 

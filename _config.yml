@@ -123,9 +123,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-    
        
-
 
 category_archive:
   type: liquid

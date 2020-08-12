@@ -73,21 +73,27 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kayleneanna@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kayleneshawgodmaire/"
-
-# Site Footer
-footer:
-  links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/kayleneanna"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-laptop-code"
       url: "https://github.com/KayleneAnna"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+
+# Site Footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kayleneshawgodmaire/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kayleneanna"
+    - label: "GitHub"
+      icon: "fas fa-laptop-code"
+      url: "https://github.com/KayleneAnna"
 
 defaults:
   # _posts

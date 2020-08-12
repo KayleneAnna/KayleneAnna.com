@@ -2,9 +2,13 @@
 title: Writing Examples
 layout: single
 permalink: /written/
+collection: portfolio
+entries_layout: grid
 ---
 
-### Written Content for eyeDOCS
+### Written content examples
+
+### For eyeDOCS
 
 - <a href="http://www.eyedocsottawa.com/we-are-re-opening-with-changes/"> Re-Opening Blog Post </a> &nbsp;
 - <a href="http://www.eyedocsottawa.com/contact-lens-recycling-optical-going-more-green/"> 'Every Contact Counts' Announcement Blog Post </a> &nbsp;
@@ -13,10 +17,10 @@ permalink: /written/
 - <a href="https://www.facebook.com/EyeDocsOttawa/photos/a.529457210432768/2638281252883676/?type=3&theater"> Children's Vision Facebook Post (includes merchandising example) </a> &nbsp;
 
 
-### Written Content for SDTC 
+### For SDTC 
 - <a href="https://twitter.com/search?q=(from%3ASDTC_TDDC)%20until%3A2019-01-11%20since%3A2018-06-04&src=typed_query"> Twitter content examples. Majority of tweets were written by me, with edits done to translated content when needed </a> &nbsp;
 
-### Written Content for Ottawa Festivals
+### For Ottawa Festivals
 
 - <a href="https://www.ottawafestivals.ca/sweepstakes-its-cultural-festival-season/"> Cultural Festivals Contest Blog Post </a> &nbsp;
 - <a href="https://www.ottawafestivals.ca/sweepstakes-its-cultural-festival-season/"> #GetFestive Promotional Blog Post </a> &nbsp;

@@ -15,10 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Hi, I'm Kaylene!
 email: kayleneanna@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- # this means to ignore newbulines until "baseurl:"
+  You can find more information about me, my resume, and a portfolio containing a variety of things I've worked on in my professional career on my custom Jekyll site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kayleneanna

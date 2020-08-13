@@ -2,7 +2,6 @@
 layout: single
 title:  "Find Out a Little More About Me"
 date:   2020-08-05 18:17:21 -0400
-categories: About
 ---
 As you've probably figured out by now, my name is Kaylene! I'm a marketing and communication professional with experience in a handful of industries and an insatiable curiosity. My approach to communications and marketing is less of pure numbers and messaging and more of a way to reach people, to share new ideas or products, and to help people understand what’s being presented to them and how an organization might be able to help.
 

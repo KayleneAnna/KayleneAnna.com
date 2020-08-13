@@ -1,5 +1,9 @@
 ---
 title: Creations
+excerpt: Here is a collection of graphics I've worked on
+header:
+  image: 
+  teaser: assets/images/create_icon.png
 layout: single 
 permalink: /create/
 collection: portfolio
@@ -30,7 +34,6 @@ gallery2:
     title: "An Instagram post congratulating the winners of Stars of the City, 2017."
 ---
 
-### Here is a collection of graphics I have worked on
 
 ### For eyeDOCS
 

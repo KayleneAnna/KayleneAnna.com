@@ -1,5 +1,9 @@
 ---
 title: Other Projects
+excerpt: A collection of events and projects I've worked on
+header:
+  image: 
+  teaser: assets/images/helped_icon.png
 layout: single
 permalink: /helped/
 collection: portfolio

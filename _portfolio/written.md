@@ -1,5 +1,9 @@
 ---
 title: Writing Examples
+excerpt: Written content examples
+header:
+  image: 
+  teaser: assets/images/written_icon.png
 layout: single
 permalink: /written/
 collection: portfolio

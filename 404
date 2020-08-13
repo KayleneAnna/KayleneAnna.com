@@ -4,7 +4,16 @@
 layout: default
 permalink: /404.html
 ---
-
-# 404
-
-Page not found! :(
+<div align="center">
+<br>
+<i class="far fa-sad-tear"></i>   
+<br>
+&nbsp;
+<br>
+Uh oh! 
+ 
+<br>
+&nbsp;
+<br>
+Seems like the content or page you're looking for is lost...sorry about that!
+</div>

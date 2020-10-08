@@ -22,6 +22,7 @@ entries_layout: grid
 
 
 ### For SDTC 
+- <a href="/assets/portfolio/sdtc-weekly.pdf"> Example of the weekly, internal newsletter that I wrote and distributed each week. </a> &nbsp;
 - <a href="https://twitter.com/search?q=(from%3ASDTC_TDDC)%20until%3A2019-01-11%20since%3A2018-06-04&src=typed_query"> Twitter content examples. Majority of tweets were written by me, with edits done to translated content when needed </a> &nbsp;
 
 ### For Ottawa Festivals
@@ -31,3 +32,6 @@ entries_layout: grid
 - <a href="https://www.youtube.com/watch?v=m7f1r19dMqA"> Scripted many of the videos in the Festival Friday YouTube series. (Can provide script document, if necessary) </a> &nbsp;
 - <a href="/assets/portfolio/ofn-writing.pdf"> Example of Mailchimp email blast to Ottawa Festival Members to get involved with the 2017 Grey Cup Festival </a> &nbsp;
 
+### Other
+
+- <a href="http://musicmoodsblog.wordpress.com/"> My personal blog that I created and maintained during my time at Algonquin College. There are multiple examples of my informal style of writing. </a> &nbsp;
